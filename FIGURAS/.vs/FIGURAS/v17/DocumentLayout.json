@@ -1,0 +1,641 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|c:\\users\\david\\source\\repos\\computaciongrafica\\figuras\\figuras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|solutionrelative:figuras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|c:\\users\\david\\source\\repos\\computaciongrafica\\figuras\\figuras\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|solutionrelative:figuras\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\figuras\\semicirculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|solutionrelative:figuras\\semicirculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\figuras\\trapecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|solutionrelative:figuras\\trapecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\figuras\\romboide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|solutionrelative:figuras\\romboide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\figuras\\rombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|solutionrelative:figuras\\rombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\figuras\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|solutionrelative:figuras\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\figuras\\estrella.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|solutionrelative:figuras\\estrella.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|c:\\users\\david\\source\\repos\\computaciongrafica\\figuras\\figuras\\elipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|solutionrelative:figuras\\elipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\figuras\\deltoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|solutionrelative:figuras\\deltoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\figuras\\frmstar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|solutionrelative:figuras\\frmstar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|c:\\users\\david\\source\\repos\\computaciongrafica\\figuras\\figuras\\frmtrapeze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|solutionrelative:figuras\\frmtrapeze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\figuras\\frmtrapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|solutionrelative:figuras\\frmtrapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|c:\\users\\david\\source\\repos\\computaciongrafica\\figuras\\figuras\\frmtriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|solutionrelative:figuras\\frmtriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|c:\\users\\david\\source\\repos\\computaciongrafica\\figuras\\figuras\\frmsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|solutionrelative:figuras\\frmsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|c:\\users\\david\\source\\repos\\computaciongrafica\\figuras\\figuras\\frmsemicircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|solutionrelative:figuras\\frmsemicircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\figuras\\frmromboide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|solutionrelative:figuras\\frmromboide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\figuras\\frmrombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|solutionrelative:figuras\\frmrombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|c:\\users\\david\\source\\repos\\computaciongrafica\\figuras\\figuras\\frmrectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|solutionrelative:figuras\\frmrectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|c:\\users\\david\\source\\repos\\computaciongrafica\\figuras\\figuras\\frmellipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|solutionrelative:figuras\\frmellipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|c:\\users\\david\\source\\repos\\computaciongrafica\\figuras\\figuras\\frmdeltoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|solutionrelative:figuras\\frmdeltoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|c:\\users\\david\\source\\repos\\computaciongrafica\\figuras\\figuras\\frmcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|solutionrelative:figuras\\frmcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\figuras\\trapezoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|solutionrelative:figuras\\trapezoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\figuras\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|solutionrelative:figuras\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|c:\\users\\david\\source\\repos\\computaciongrafica\\figuras\\figuras\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|solutionrelative:figuras\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\figuras\\frmstar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|solutionrelative:figuras\\frmstar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\figuras\\frmrombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|solutionrelative:figuras\\frmrombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\figuras\\frmdeltoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|solutionrelative:figuras\\frmdeltoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\figuras\\frmromboide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|solutionrelative:figuras\\frmromboide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\figuras\\frmrectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|solutionrelative:figuras\\frmrectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\figuras\\frmtrapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|solutionrelative:figuras\\frmtrapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\figuras\\frmtrapeze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|solutionrelative:figuras\\frmtrapeze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\figuras\\frmsemicircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|solutionrelative:figuras\\frmsemicircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\figuras\\frmcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|solutionrelative:figuras\\frmcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\figuras\\frmellipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000B0BD6-6778-4F99-B7CE-7B4BA2D1178A}|FIGURAS\\FIGURAS.csproj|solutionrelative:figuras\\frmellipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 264,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 123,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rectangulo.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\Rectangulo.cs",
+              "RelativeDocumentMoniker": "FIGURAS\\Rectangulo.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\Rectangulo.cs",
+              "RelativeToolTip": "FIGURAS\\Rectangulo.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T00:39:09.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rombo.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\Rombo.cs",
+              "RelativeDocumentMoniker": "FIGURAS\\Rombo.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\Rombo.cs",
+              "RelativeToolTip": "FIGURAS\\Rombo.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T04:32:51.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Romboide.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\Romboide.cs",
+              "RelativeDocumentMoniker": "FIGURAS\\Romboide.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\Romboide.cs",
+              "RelativeToolTip": "FIGURAS\\Romboide.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T04:56:53.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Trapecio.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\Trapecio.cs",
+              "RelativeDocumentMoniker": "FIGURAS\\Trapecio.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\Trapecio.cs",
+              "RelativeToolTip": "FIGURAS\\Trapecio.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T00:39:01.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Semicirculo.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\Semicirculo.cs",
+              "RelativeDocumentMoniker": "FIGURAS\\Semicirculo.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\Semicirculo.cs",
+              "RelativeToolTip": "FIGURAS\\Semicirculo.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T00:21:06.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\Triangulo.cs",
+              "RelativeDocumentMoniker": "FIGURAS\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\Triangulo.cs",
+              "RelativeToolTip": "FIGURAS\\Triangulo.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwCIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T02:43:36.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\Program.cs",
+              "RelativeDocumentMoniker": "FIGURAS\\Program.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\Program.cs",
+              "RelativeToolTip": "FIGURAS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T15:38:12.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Estrella.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\Estrella.cs",
+              "RelativeDocumentMoniker": "FIGURAS\\Estrella.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\Estrella.cs",
+              "RelativeToolTip": "FIGURAS\\Estrella.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAewHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:42:25.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Elipse.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\Elipse.cs",
+              "RelativeDocumentMoniker": "FIGURAS\\Elipse.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\Elipse.cs",
+              "RelativeToolTip": "FIGURAS\\Elipse.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T02:37:08.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Deltoide.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\Deltoide.cs",
+              "RelativeDocumentMoniker": "FIGURAS\\Deltoide.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\Deltoide.cs",
+              "RelativeToolTip": "FIGURAS\\Deltoide.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:10:38.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmStar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\FrmStar.cs",
+              "RelativeDocumentMoniker": "FIGURAS\\FrmStar.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\FrmStar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FIGURAS\\FrmStar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:53:09.362Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmTrapeze.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\FrmTrapeze.cs",
+              "RelativeDocumentMoniker": "FIGURAS\\FrmTrapeze.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\FrmTrapeze.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FIGURAS\\FrmTrapeze.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T03:12:11.761Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmTrapezoid.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\FrmTrapezoid.cs",
+              "RelativeDocumentMoniker": "FIGURAS\\FrmTrapezoid.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\FrmTrapezoid.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FIGURAS\\FrmTrapezoid.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T04:15:02.441Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmTriangle.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\FrmTriangle.cs",
+              "RelativeDocumentMoniker": "FIGURAS\\FrmTriangle.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\FrmTriangle.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FIGURAS\\FrmTriangle.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T03:12:41.443Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmSquare.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\FrmSquare.cs",
+              "RelativeDocumentMoniker": "FIGURAS\\FrmSquare.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\FrmSquare.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FIGURAS\\FrmSquare.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T03:11:19.077Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmSemiCircle.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\FrmSemiCircle.cs",
+              "RelativeDocumentMoniker": "FIGURAS\\FrmSemiCircle.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\FrmSemiCircle.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FIGURAS\\FrmSemiCircle.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T03:11:08.152Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmRectangulo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\FrmRectangulo.cs",
+              "RelativeDocumentMoniker": "FIGURAS\\FrmRectangulo.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\FrmRectangulo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FIGURAS\\FrmRectangulo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T03:10:22.232Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmRombo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\FrmRombo.cs",
+              "RelativeDocumentMoniker": "FIGURAS\\FrmRombo.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\FrmRombo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FIGURAS\\FrmRombo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T04:38:09.26Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmEllipse.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\FrmEllipse.cs",
+              "RelativeDocumentMoniker": "FIGURAS\\FrmEllipse.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\FrmEllipse.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FIGURAS\\FrmEllipse.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T03:10:06.441Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmRomboide.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\FrmRomboide.cs",
+              "RelativeDocumentMoniker": "FIGURAS\\FrmRomboide.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\FrmRomboide.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FIGURAS\\FrmRomboide.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T05:06:42.428Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmDeltoide.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\FrmDeltoide.cs",
+              "RelativeDocumentMoniker": "FIGURAS\\FrmDeltoide.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\FrmDeltoide.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FIGURAS\\FrmDeltoide.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T03:09:49.458Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmCircle.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\FrmCircle.cs",
+              "RelativeDocumentMoniker": "FIGURAS\\FrmCircle.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\FrmCircle.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FIGURAS\\FrmCircle.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T03:09:27.995Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Trapezoide.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\Trapezoide.cs",
+              "RelativeDocumentMoniker": "FIGURAS\\Trapezoide.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\Trapezoide.cs",
+              "RelativeToolTip": "FIGURAS\\Trapezoide.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAxwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T04:05:09.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\Circulo.cs",
+              "RelativeDocumentMoniker": "FIGURAS\\Circulo.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\Circulo.cs",
+              "RelativeToolTip": "FIGURAS\\Circulo.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T00:21:11.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Cuadrado.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\Cuadrado.cs",
+              "RelativeDocumentMoniker": "FIGURAS\\Cuadrado.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\Cuadrado.cs",
+              "RelativeToolTip": "FIGURAS\\Cuadrado.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T02:36:41.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FrmRombo.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\FrmRombo.cs",
+              "RelativeDocumentMoniker": "FIGURAS\\FrmRombo.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\FrmRombo.cs",
+              "RelativeToolTip": "FIGURAS\\FrmRombo.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwC4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T04:38:48.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FrmStar.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\FrmStar.cs",
+              "RelativeDocumentMoniker": "FIGURAS\\FrmStar.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\FrmStar.cs",
+              "RelativeToolTip": "FIGURAS\\FrmStar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:55:59.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FrmDeltoide.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\FrmDeltoide.cs",
+              "RelativeDocumentMoniker": "FIGURAS\\FrmDeltoide.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\FrmDeltoide.cs",
+              "RelativeToolTip": "FIGURAS\\FrmDeltoide.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAuwDgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:27:08.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FrmRomboide.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\FrmRomboide.cs",
+              "RelativeDocumentMoniker": "FIGURAS\\FrmRomboide.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\FrmRomboide.cs",
+              "RelativeToolTip": "FIGURAS\\FrmRomboide.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T05:08:32.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FrmRectangulo.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\FrmRectangulo.cs",
+              "RelativeDocumentMoniker": "FIGURAS\\FrmRectangulo.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\FrmRectangulo.cs",
+              "RelativeToolTip": "FIGURAS\\FrmRectangulo.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwD4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T00:51:54.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FrmTrapeze.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\FrmTrapeze.cs",
+              "RelativeDocumentMoniker": "FIGURAS\\FrmTrapeze.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\FrmTrapeze.cs",
+              "RelativeToolTip": "FIGURAS\\FrmTrapeze.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwD0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T00:49:43.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FrmTrapezoid.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\FrmTrapezoid.cs",
+              "RelativeDocumentMoniker": "FIGURAS\\FrmTrapezoid.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\FrmTrapezoid.cs",
+              "RelativeToolTip": "FIGURAS\\FrmTrapezoid.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAIAwwDwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T04:17:04.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FrmSemiCircle.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\FrmSemiCircle.cs",
+              "RelativeDocumentMoniker": "FIGURAS\\FrmSemiCircle.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\FrmSemiCircle.cs",
+              "RelativeToolTip": "FIGURAS\\FrmSemiCircle.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAiwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T00:24:59.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FrmCircle.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\FrmCircle.cs",
+              "RelativeDocumentMoniker": "FIGURAS\\FrmCircle.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\FrmCircle.cs",
+              "RelativeToolTip": "FIGURAS\\FrmCircle.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T00:25:17.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FrmEllipse.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\FrmEllipse.cs",
+              "RelativeDocumentMoniker": "FIGURAS\\FrmEllipse.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\FIGURAS\\FIGURAS\\FrmEllipse.cs",
+              "RelativeToolTip": "FIGURAS\\FrmEllipse.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvzQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T00:10:27.167Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
